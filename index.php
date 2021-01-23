@@ -5,7 +5,7 @@
     </head>
    <body>
    
-             <?php include "index.html";?>
+             <?php include "nav.html";?>
 			 <?php include "card.html";?>
 			 
 			 
